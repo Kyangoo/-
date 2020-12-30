@@ -1,1 +1,3 @@
-ptp_929371481_1
+MAC: 50-2B-73-E4-9F-08
+Plugin: PokeTaskPlugin
+Key: ptp_929371481_1
